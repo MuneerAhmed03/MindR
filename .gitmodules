@@ -1,0 +1,6 @@
+[submodule "mindr-app"]
+	path = mindr-app
+	url = https://github.com/MuneerAhmed03/mindr-app
+[submodule "mindr-bot"]
+	path = mindr-bot
+	url = https://github.com/MuneerAhmed03/mindr-bot
